@@ -1,4 +1,5 @@
 # Results-summary
 This project is a simple Frontend Mentor challenge that I enjoyed coding  :)
 
-The website live demo => https://648aaa02fbb3a84806eedfe7--unrivaled-monstera-75af90.netlify.app/
+🙌 I built this project by the help of this nice tutorial  👉 https://www.youtube.com/watch?v=KqFAs5d3Yl8
+
